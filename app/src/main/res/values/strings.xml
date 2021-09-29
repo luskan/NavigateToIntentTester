@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NavigateToIntentTester</string>
+    <string name="a_application_caption">Navigate To X</string>
+</resources>
